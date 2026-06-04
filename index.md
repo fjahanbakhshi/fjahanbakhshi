@@ -1,12 +1,12 @@
 
-### Anahita Taheri
+### Fahimeh Jahanbakhshi
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
++ name: Fahimeh
++ last name : Jahanbakhshi
 + Date of birth : 1979/November/29
 + I am a trader and IT engineering student
 + location : Tehran , I.R.Iran
