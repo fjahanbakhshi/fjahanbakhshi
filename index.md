@@ -7,8 +7,10 @@
 ---
 + name: Fahimeh
 + last name : Jahanbakhshi
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ Date of birth : 1997/September/1
++I am a PhD student in Photonics and a programmer.
++ 📧 Email:fjahanbakhshi.code@gmail.com
++  📱 Phone:09196590068
 + location : Tehran , I.R.Iran
 
 
@@ -22,7 +24,21 @@
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
++ PhD in Photonics
+
++ Shahid Beheshti University, Tehran, Iran
++ Present
+
++ Research Topic:
++ Development and enhancement of advanced biomedical imaging systems, including Laser Speckle Imaging (LSI), integrated with Artificial Intelligence techniques for improved image processing, diagnostic accuracy, and intelligent analysis of biological tissues.
+
+Research Areas:
+
+Artificial Intelligence in Biomedical Imaging
+Laser Speckle Imaging
+Optical Signal Processing
+Deep Learning for Medical Diagnostics
+Intelligent Imaging Systems
 + Bachelor of science : IT Engineering
 _ payam Noor University of North 
 
