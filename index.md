@@ -3,6 +3,7 @@
 
 Artificial Intelligence Engineer | PhD Researcher in Photonics & Biomedical Imaging
 
+
 ### Personal informations
 
 ---
@@ -13,6 +14,7 @@ Artificial Intelligence Engineer | PhD Researcher in Photonics & Biomedical Imag
 + 📧 Email:fjahanbakhshi.code@gmail.com
 +  📱 Phone:+98 9196590068
 + location : Tehran , I.R.Iran
+
 
 ### Professional Summary
 
@@ -116,13 +118,12 @@ Mathematical Methods in Physics
 Programming for Scientific Applications
 
 
-
-
 ### language
 
 ---
 + Persian
 + English
+
 
 ### Favorites
 
@@ -135,7 +136,9 @@ Programming for Scientific Applications
 + Volleyball
 + Programming and Innovation
 
+
 ### RESEARCH INTERESTS
+
 ---
 
 + Artificial Intelligence in Healthcare
