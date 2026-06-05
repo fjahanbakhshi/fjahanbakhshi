@@ -10,7 +10,7 @@ Artificial Intelligence Engineer | PhD Researcher in Photonics & Biomedical Imag
 + name: Fahimeh
 + last name : Jahanbakhshi
 + Date of birth : 1997/September/1
-+I am a PhD student in Photonics and a programmer.
++ I am a PhD student in Photonics and a programmer.
 + 📧 Email:fjahanbakhshi.code@gmail.com
 +  📱 Phone:+98 9196590068
 + location : Tehran , I.R.Iran
