@@ -67,6 +67,66 @@ Jupyter Notebook
 Data Preprocessing
 
 
+### PROFESSIONAL EXPERIENCE
+
+---
+
++ AI Engineer – Computer Vision & Signal Processing
+
+Manshoor Kherad Company | Present
+
+Designed and implemented AI-based solutions for image processing and signal analysis.
+Developed computer vision systems for object detection and tracking using deep learning models.
+Applied YOLO-based architectures for real-time detection tasks.
+Built end-to-end pipelines for video and image analytics.
+Performed model training, evaluation, and optimization for industrial applications.
+Collaborated with engineering teams to deploy AI systems in real-world environments.
+
+Key Technologies: Python, OpenCV, PyTorch, TensorFlow, YOLO, Scikit-learn 
+
++ PhD Researcher – Photonics & Biomedical AI
+
+Shahid Beheshti University | Present
+
+Conducting research on AI-enhanced biomedical imaging systems.
+Developing machine learning methods for Laser Speckle Imaging (LSI) analysis.
+Investigating deep learning approaches for medical image enhancement and interpretation.
+Designing computational models for optical signal analysis and diagnostics.
+Working at the intersection of Photonics, AI, and Medical Imaging.
+
+
+### PROJECTS
+
+---
++ Intelligent Traffic Monitoring System (Computer Vision)
+Developed a real-time traffic analysis system using computer vision techniques.
+Implemented vehicle detection, tracking, and traffic density estimation.
+Processed video streams for automated monitoring and analysis.
+
+Technologies: OpenCV, YOLO, Python, Deep Learning
+
++ QEEG-Based Neurodiagnostic AI System
+Designed signal processing pipeline for QEEG data analysis.
+Extracted neurological features from EEG signals.
+Applied machine learning models for classification and pattern recognition.
+Built analytical tools for biomedical signal interpretation.
+
+Technologies: Python, Scikit-learn, Signal Processing, Machine Learning
+
++ Biomedical Imaging AI Research System
+Developed AI-based models for medical image analysis.
+Applied deep learning techniques for feature extraction and interpretation.
+Worked on computational imaging pipelines for diagnostic support.
+
++ Optical Sensor Data Intelligence System
+Designed data-driven models for optical sensor signal analysis.
+Implemented anomaly detection and predictive analytics models.
+
++ AI-Based Cancer Detection Research
+Researched machine learning approaches for cancer detection using biomedical images.
+Developed classification pipelines for diagnostic decision support systems.
+
+
 ### Education
 
 ---
