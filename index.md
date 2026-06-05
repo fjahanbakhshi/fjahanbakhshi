@@ -16,6 +16,7 @@ Artificial Intelligence Engineer | PhD Researcher in Photonics & Biomedical Imag
 
 ### Professional Summary
 
+---
 PhD candidate in Photonics with a strong academic foundation in Physics, Photonics, Artificial Intelligence, and Biomedical Imaging. Experienced in developing AI-driven solutions for image and signal processing, with research interests focused on intelligent optical systems, medical imaging, computational photonics, and machine learning applications.
 
 Possessing hands-on experience in the artificial intelligence industry, particularly in image processing, signal analysis, computer vision, and deep learning-based solutions. Skilled in designing and implementing AI algorithms for complex data interpretation, biomedical diagnostics, and advanced imaging technologies.
