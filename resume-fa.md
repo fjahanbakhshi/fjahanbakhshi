@@ -41,9 +41,9 @@ body{
 - MATLAB
 + هوش مصنوعی
 
-PyTorch
-TensorFlow
-Scikit-learn
+- PyTorch
+- TensorFlow
+- Scikit-learn
 + بینایی ماشین و پردازش تصویر
 
 OpenCV
