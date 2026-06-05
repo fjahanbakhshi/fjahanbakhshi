@@ -58,7 +58,7 @@ Machine Learning for Cancer Detection
 Biomedical Signal Processing
 Intelligent Diagnostic Systems
 
-+Bachelor of Science (B.Sc.) in Physics
++ Bachelor of Science (B.Sc.) in Physics
 
 Alzahra University, Tehran, Iran
 
