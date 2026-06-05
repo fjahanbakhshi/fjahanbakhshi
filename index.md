@@ -1,6 +1,7 @@
 
 ### Fahimeh Jahanbakhshi
 
+Artificial Intelligence Engineer | PhD Researcher in Photonics & Biomedical Imaging
 
 ### Personal informations
 
@@ -10,7 +11,7 @@
 + Date of birth : 1997/September/1
 +I am a PhD student in Photonics and a programmer.
 + 📧 Email:fjahanbakhshi.code@gmail.com
-+  📱 Phone:09196590068
++  📱 Phone:+98 9196590068
 + location : Tehran , I.R.Iran
 
 ### Professional Summary
@@ -21,6 +22,46 @@ Possessing hands-on experience in the artificial intelligence industry, particul
 
 Combining expertise in photonics, optical sensing, artificial intelligence, and scientific programming to develop innovative solutions for healthcare, industrial, and research applications. Passionate about interdisciplinary research at the intersection of Photonics, AI, Medical Imaging, and Intelligent Signal Processing.
 
+
+### CORE EXPERTISE
+
+---
++ Artificial Intelligence & Machine Learning
++ Deep Learning & Neural Networks
++ Computer Vision
++ Biomedical Image Processing
++ Signal Processing (EEG / QEEG / Optical Signals)
++ Optical Imaging Systems
++ Computational Imaging
++ Medical AI Systems
++ Pattern Recognition
++ Research & Development
+
+
+### TECHNICAL SKILLS
+
+---
++ Programming
+Python (Advanced)
+MATLAB
++ Deep Learning Frameworks
+PyTorch
+TensorFlow
+Scikit-learn
++ Computer Vision
+OpenCV
+YOLO (Object Detection)
+Image/Video Processing Pipelines
++ AI Techniques
+Model Training & Evaluation
+Transfer Learning
+Fine-Tuning Pretrained Models (CNNs, YOLO, Vision Models)
+Feature Engineering
+Segmentation & Classification Models
++ Tools & Platforms
+Git / GitHub
+Jupyter Notebook
+Data Preprocessing
 
 
 ### Education
@@ -75,23 +116,6 @@ Programming for Scientific Applications
 
 
 
-### Skill Highlights
-
----
-+ Artificial Intelligence (AI)
-+ Machine Learning & Deep Learning
-+ Computer Vision
-+ Biomedical Image Processing
-+ Signal Processing
-+ Photonics & Optical Engineering
-+ Laser Speckle Imaging (LSI)
-+ Optical Sensors
-+ Python & MATLAB Programming
-+ Scientific Computing
-+ Data Analysis & Visualization
-+ Academic Research and Technical Writing
-+ Technical Translation (Persian ↔ English)
-+ Research in AI-Based Medical Diagnostics
 
 ### language
 
@@ -110,22 +134,16 @@ Programming for Scientific Applications
 + Volleyball
 + Programming and Innovation
 
-### working Experience
-
+### RESEARCH INTERESTS
 ---
-+ AI Engineer | Image Processing & Signal Analysis
-Manshoor Kherad Company | Present
-Developing Artificial Intelligence solutions for image processing, signal analysis, and computer vision applications.
-Designing and implementing machine learning and deep learning models for intelligent data interpretation and pattern recognition.
-Contributing to research and development projects involving biomedical imaging, optical sensing, and AI-driven diagnostic systems.
-Building data processing and optimizing algorithms for large-scale scientific and engineering datasets.
-Collaborating with research and engineering teams to integrate AI technologies into real-world applications.
-+ PhD Researcher | Photonics, Biomedical Imaging & Artificial Intelligence
-Shahid Beheshti University | Present
-Conducting doctoral research focused on enhancing advanced optical imaging systems, including Laser Speckle Imaging (LSI), through Artificial Intelligence and computational imaging techniques.
-Developing AI-assisted methods for biomedical image analysis, optical sensing, and non-invasive diagnostic applications.
-Investigating deep learning approaches for image reconstruction, feature extraction, and automated interpretation of optical imaging data.
-Contributing to interdisciplinary research projects at the intersection of Photonics, Artificial Intelligence, and Medical Imaging.
+
++ Artificial Intelligence in Healthcare
++ Medical Image Analysis
++ Deep Learning Optimization
++ Biomedical Signal Processing
++ Computer Vision Systems
++ Optical Imaging & Photonics
++ Intelligent Diagnostic Systems
 
 
 
